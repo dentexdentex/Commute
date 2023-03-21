@@ -1,0 +1,19 @@
+{
+    "name": "Curvy.Base.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f36ec31bc6061460d9dbb01777c770a4",
+        "GUID:330d057f01d1c4f9fa2baa89bdc2b0e6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
