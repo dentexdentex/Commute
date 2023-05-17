@@ -41,33 +41,33 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/ClipboardHandler.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTSelection.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/Extensions/EditorExtensions.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTDebugWindow.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/EditorData.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/Components/ComponentPoolEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/ToolbarItemTypes/DTToolbarRadioOffButton.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/ToolbarItemTypes/DTToolbarToggleButton.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/Components/PoolManagerEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTToolbarItem.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTEditor.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/EditorKeyDefinition.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTToolbar.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/ToolbarItemTypes/DTToolbarRadioButton.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTResource.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/ToolbarItemTypes/DTToolbarButton.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTSceneView.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTStatusbar.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTEditorUtility.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/PropertyDrawers.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTHandles.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/Components/PrefabPoolEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTProject.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTGUI.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTEditorClasses.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTStyles.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/Extensions/EditorExtensions.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTEditorUtility.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTProject.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/EditorData.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTEditorClasses.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTDebugWindow.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTToolbarItem.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTHandles.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTGUI.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTSelection.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/ToolbarItemTypes/DTToolbarButton.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DT.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/Components/ComponentPoolEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/Components/PoolManagerEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/ClipboardHandler.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTToolbar.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTStatusbar.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/ToolbarItemTypes/DTToolbarToggleButton.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTSceneView.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/DTResource.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/Components/PrefabPoolEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/ToolbarItemTypes/DTToolbarRadioOffButton.cs" />
      <None Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/Curvy.Editor.asmdef" />
      <Folder Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor" />
      <Folder Include="Assets/Zerosum/3rdParty/Plugins/Curvy/DevTools/Editor/ToolbarItemTypes" />
@@ -334,6 +334,9 @@
      <Reference Include="Unity.Plastic.Newtonsoft.Json">
      <HintPath>/Users/mahmutihsandal/Commute/Library/PackageCache/com.unity.collab-proxy@1.17.7/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
      </Reference>
+     <Reference Include="CurvyEditorIcons">
+     <HintPath>/Users/mahmutihsandal/Commute/Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy Resources/CurvyEditorIcons.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.Plastic.Antlr3.Runtime">
      <HintPath>/Users/mahmutihsandal/Commute/Library/PackageCache/com.unity.collab-proxy@1.17.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
      </Reference>
@@ -360,9 +363,6 @@
      </Reference>
      <Reference Include="Newtonsoft.Json">
      <HintPath>/Users/mahmutihsandal/Commute/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
-     </Reference>
-     <Reference Include="CurvyEditorIcons">
-     <HintPath>/Users/mahmutihsandal/Commute/Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy Resources/CurvyEditorIcons.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
      <HintPath>/Users/mahmutihsandal/Commute/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>

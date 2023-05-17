@@ -2,11 +2,11 @@ using UnityEngine;
 
 public class CarController : MonoBehaviour
 {
-    public FinishPoint _finishPoint;
+  //  public FinishPoint _finishPoint;
     public float speed = 10f; 
     public float rotationSpeed = 100f; //dönüş hızı
     public Transform startPoint; 
-    public Transform finishPoint; //silinebilir
+    //public Transform finishPoint; //silinebilir
     public GameObject myObject;
 
     void Start()

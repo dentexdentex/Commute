@@ -41,69 +41,69 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyEditorUtility.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/CreatePathLineRendererEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Controllers/VolumeControllerEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/ModifierTRSShapeEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CanvasSelection.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyEditorBase.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CGEditorUtility.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/ConformPathEditor.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Controllers/PathControllerEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyPropertyDrawers.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyStyles.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Wizards/TemplateWizard.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/DebugVolumeEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyMenu.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyEditorUtility.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/InputSplinePathEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyShapeEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/InputGameObjectEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Wizards/ImportExportWizard.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/BuildVolumeMeshEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/BuildVolumeCapsEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CGGraph.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyUISplineEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/MixShapesEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Controllers/SplineControllerEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Wizards/CurvySplineExportWizard.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/BuildShapeExtrusionEditor.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CanvasState.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Network/AnnouncementWindow.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/ModifierTRSMeshEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Components/GLCurvyRendererEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/CreateGameObjectEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/InputSplineShapeEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/CreateMeshEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyProject.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Network/Metrics.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/BuildVolumeSpotsEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyToolbar.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CGModuleEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvySplineAlignWizard.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/AboutWindow.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Network/AnnouncementsFetcher.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/DebugVolumeEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Controllers/MoveModeDrawer.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Controllers/CurvyControllerEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvySplineSegmentEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/DebugRasterizedPathEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/InputMeshEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CanvasUI.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyPositionModeDrawer.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/ModifierMixPathsEditor.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/ModifierPathRelativeTranslationEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvySplineEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CGResourceEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/MetaCGOptionsEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyConnectionEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/ModifierVariableMixShapesEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Wizards/ShapeWizard.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/NoteEditor.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/ModifierTRSPathEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/InputSplineShapeEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/ModifierMixPathsEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/ConformPathEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Wizards/TemplateWizard.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvySplineAlignWizard.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Wizards/ModuleWizard.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CurvyGeneratorEditor.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyMenu.cs" />
-     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/BuildRasterizedPathEditor.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/InputSpotsEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/MixShapesEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/BuildVolumeMeshEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Controllers/SplineControllerEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/CreateMeshEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/BuildVolumeSpotsEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/DebugRasterizedPathEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CGModuleEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/InputMeshEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyConnectionEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyEditorBase.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/ModifierVariableMixShapesEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/CreatePathLineRendererEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CGEditorUtility.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyStyles.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Components/GLCurvyRendererEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/NoteEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyPropertyDrawers.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Wizards/CurvySplineExportWizard.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Controllers/VolumeControllerEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/AboutWindow.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Network/AnnouncementsFetcher.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Controllers/CurvyControllerEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/BuildRasterizedPathEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/ModifierTRSShapeEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CanvasSelection.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/BuildVolumeCapsEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Network/AnnouncementWindow.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvySplineSegmentEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CanvasUI.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvySplineEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CGResourceEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/InputGameObjectEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/CGGraph.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyToolbar.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Controllers/MoveModeDrawer.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyShapeEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Wizards/ImportExportWizard.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CurvyProject.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Wizards/ShapeWizard.cs" />
      <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/DebugVMeshEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules/CreateGameObjectEditor.cs" />
+     <Compile Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG/MetaCGOptionsEditor.cs" />
      <Folder Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Controllers" />
      <Folder Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/CG Modules" />
      <Folder Include="Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy/Base/Editor/Components" />
@@ -373,6 +373,9 @@
      <Reference Include="Unity.Plastic.Newtonsoft.Json">
      <HintPath>/Users/mahmutihsandal/Commute/Library/PackageCache/com.unity.collab-proxy@1.17.7/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
      </Reference>
+     <Reference Include="CurvyEditorIcons">
+     <HintPath>/Users/mahmutihsandal/Commute/Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy Resources/CurvyEditorIcons.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.Plastic.Antlr3.Runtime">
      <HintPath>/Users/mahmutihsandal/Commute/Library/PackageCache/com.unity.collab-proxy@1.17.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
      </Reference>
@@ -399,9 +402,6 @@
      </Reference>
      <Reference Include="Newtonsoft.Json">
      <HintPath>/Users/mahmutihsandal/Commute/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
-     </Reference>
-     <Reference Include="CurvyEditorIcons">
-     <HintPath>/Users/mahmutihsandal/Commute/Assets/Zerosum/3rdParty/Plugins/Curvy/Curvy Resources/CurvyEditorIcons.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
      <HintPath>/Users/mahmutihsandal/Commute/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
